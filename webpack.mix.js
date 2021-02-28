@@ -48,6 +48,13 @@ mix.setPublicPath( 'src' );
 mix.version();
 
 /*
+ * Compile JavaScript.
+ *
+ * @link https://laravel.com/docs/5.6/mix#working-with-scripts
+ */
+// mix.js( `${devPath}/js/app.js`, 'js' );
+
+/*
  * Compile CSS. Mix supports Sass, Less, Stylus, and plain CSS, and has functions
  * for each of them.
  *
