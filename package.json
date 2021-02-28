@@ -27,6 +27,7 @@
   },
   "homepage": "https://github.com/benlumia007/fluffy-guacamole#readme",
   "dependencies": {
+    "@fontsource/merriweather": "^4.2.1",
     "cross-env": "^7.0.3",
     "gatsby": "^2.32.8",
     "laravel-mix": "^5.0.9",
