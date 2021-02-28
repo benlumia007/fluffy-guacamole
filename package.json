@@ -27,6 +27,7 @@
   },
   "homepage": "https://github.com/benlumia007/fluffy-guacamole#readme",
   "dependencies": {
+    "cross-env": "^7.0.3",
     "gatsby": "^2.32.8",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
