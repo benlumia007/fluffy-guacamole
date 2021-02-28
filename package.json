@@ -1,0 +1,36 @@
+{
+  "name": "fluffy-guacamole",
+  "priviate": true,
+  "description": "Gatsby Theme",
+  "version": "1.0.0",
+  "license": "GPL-2.0+",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop -H 0.0.0.0",
+    "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
+    "start": "npm run develop",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean",
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benlumia007/fluffy-guacamole.git"
+  },
+  "keywords": [
+    "gatsby",
+    "react"
+  ],
+  "bugs": {
+    "url": "https://github.com/benlumia007/fluffy-guacamole/issues"
+  },
+  "homepage": "https://github.com/benlumia007/fluffy-guacamole#readme",
+  "dependencies": {
+    "gatsby": "^2.32.8",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  },
+  "devDependencies": {
+    "prettier": "^2.2.1"
+  }
+}
